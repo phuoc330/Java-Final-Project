@@ -1,0 +1,15 @@
+A. Information;B. Business Intelligence;C. Competitive Intelligence;D. Data;E. Business Information;
+A. Systems Thinking;B. Outsourcing;C. Informing;D. Supply Chaining;E. Distrubution Focused Industry; 
+A. Information technology is everywhere in business;B. Information technology is rarely discussed in business;C. Information technology is rarely used in organizations;D. Information technology is found in only a few businesses;E. Information Technology is the new, upcoming area to study;
+A. Quantity sold;B. Date sold;C. Best selling item by month;D. Number of employees at any time; E. All of the above;
+A. Quantity sold;B. Best customer by month;C. Best selling item by month;D. Worst selling item by month;E. Employees hired by month;
+A. Suppliers;B. Customers;C. Competitors;D. Supplies;E. All of the above;
+A. Resources;B. Intelligence;C. Expectations;D. Enterprise information;E. Employee databases;
+A. Collection of data;B. Storage of data;C. College statistics for data;D. Use of data;E. Data analytics;
+A. Data, Information, Business Intelligence, Knowledge;B. Fact, Data, Intelligence, Experience;C. Fact, Intelligence, Business Skills, Knowledge;D. Data, Intelligence, Business Information, Knowledge;E. None of the above;
+A. Information;B. Knowledge;C. Fact;D. Data;E. None of the above;
+A. A data characteristic that is collected through competitive intelligence and cannot change over time;B. A data characteristic that stands for a value that changes or varies over time;C. A data characteristic that stands for a value that does not change or vary over time;D. A data characteristic that is collected only through competitive intelligence and can change over time;E. None of the above;
+A. Facts;B. Variables;C. Supplies;D. Vulnerable;E. All of the above;
+A. Increased the world;B. Shrunk the world;C. Prioritized the world;D. Flattened the World;E. Expanded the World;
+A. Buyer power;B. Data;C. Fact;D. Entry barrier;E. None of the above;
+A. By departments or functional areas;B. By departments or financial areas;C. By degree or financial areas;D. All of the above;E. None of the above;

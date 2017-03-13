@@ -1,0 +1,6 @@
+1. What is the greatest common factor of 42, 126, and 210?
+2. When x = 3 and y = 5, by how much does the value of 3(x^2) – 2y exceed the value of 2(x^2) – 3y ?
+3. The length, in inches, of a box is 3 inches less than twice its width, in inches. Which of the following gives the length, l inches, in terms of the width, w inches, of the box?
+4. What is the slope of any line parallel to the line 9x + 4y = 7 ?
+5. DVD player with a list price of $100 is marked down 30%. If John gets an employee discount of 20% off the sale price, how much does John pay for the DVD player ?
+6. What is the degree measure of the acute angle formed by the hands of a 12-hour clock that reads exactly 1 o’clock?
