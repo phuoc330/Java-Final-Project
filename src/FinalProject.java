@@ -8,7 +8,6 @@ import java.util.Scanner;
 
 /**
  * @author Phuoc Nguyen
- * @author Alyssa Johnson
  *
  */
 public class FinalProject {
