@@ -1,2 +1,2 @@
 # Java-Final-Project
-Class project
+This was my Class project for undergrad Java class.
